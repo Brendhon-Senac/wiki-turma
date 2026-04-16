@@ -6,4 +6,3 @@ oque espero aprender no curso:
 espero aprender a programar e mexer com computador melhor
 curiosidades sobre mim:
 meu animal favorito e cavalo
-
