@@ -4,10 +4,10 @@
 minha irma me recomendou e achei legal, e lucrativo 
 
 **Uma habilidade que já tenho:**
-tocar bateria e mestrar RPG,PVP no minecraft
+PVP no minecraft, ser jogador de RPG
 
 **O que espero aprender no curso:**
-sobre Java script e css
+sobre CSS
 
 **Curiosidade sobre mim:**
-nao gosto de cachorro e nao gosto de comer pedra so uranio
+comer uranio e nao gosto de vibranio
