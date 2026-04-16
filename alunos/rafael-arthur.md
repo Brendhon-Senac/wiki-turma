@@ -12,3 +12,4 @@ aprender a codar e criar site e jogos
 
 **Curiosidade sobre mim:**
 ja lutei capoeira e sou bom em ping pong
+
