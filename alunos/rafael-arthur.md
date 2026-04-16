@@ -11,4 +11,4 @@ sou muito bom em jogos
 aprender a codar e criar site e jogos
 
 **Curiosidade sobre mim:**
-ja lutei capoeira na ong 
+ja lutei capoeira e sou bom em ping pong
