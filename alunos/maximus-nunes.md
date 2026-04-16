@@ -3,12 +3,12 @@
 // meu humilde nome, mais aqui no github pode me chamar de d4tur4.
  
 **Por que escolhi programação:**
-eu escolhi programação pois eu gosto dessa area tecnologica e gostaria de me aprofundar nela para virar minha carreira, e também porque quero trabalhar home office.
+eu escolhi programação pois eu gosto dessa area tecnologica e gostaria de me aprofundar nela para virar minha carreira, e também porque quero trabalhar home office, gosto tambem de estar com poucas pessoas e acho que programção poderia ser assim.
 
 // aqui demonstra meu gosto pela area, pois é algo que eu quero.
 
 **Uma habilidade que já tenho:**
-sou bom no xadrez, sou bem adaptavel as coisas ( de acordo com os profissionais da area psiquiatrica), raciocinio logico, qi 113, bom adaptabilidade e desenvolvimento em jogos eletronicos, bom no basquete.
+sou bom no xadrez, sou bem adaptavel as coisas ( de acordo com os profissionais da area psiquiatrica), raciocinio logico, qi 113, bom adaptabilidade e desenvolvimento em jogos eletronicos, bom no basquete, sou competitivo mesmo tendo preguuiça em competir e baixa autoestima.
 
 // aqui demonstra minhas efemeras habilidades, posso ter mais e só não lembro, mais sou mediano em quase tudo que faço e tenho raiva disso, isso é praticamente um desabafo.
 
