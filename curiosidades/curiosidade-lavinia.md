@@ -16,4 +16,6 @@ Por que as mulheres só começaram a competir em 1952?
 
 Pergunta de Júlia para Lavínia: quanto tempo você joga??
 10 meses.
+Pergunta de Ana Clara para Lavínia:Se o ponto vale quando encosta na faixa? 
+sim. 
 
