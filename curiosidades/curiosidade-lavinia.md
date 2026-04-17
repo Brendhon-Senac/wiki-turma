@@ -12,4 +12,4 @@ As mulheres só começaram a competir em 1952
 Minha opinião ou complemento:
 não me identifico com volei
 Pergunta que eu faria ao autor:
-Já jogou volêi muitas vezes?
+Por que as mulheres só começaram a competir em 1952?
