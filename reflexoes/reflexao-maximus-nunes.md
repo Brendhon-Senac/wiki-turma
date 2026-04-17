@@ -3,7 +3,7 @@
 1. Quantos commits o repositório tem no total?
 existem atualmente as 20:59 101 comits
 
-// isso de acorodo com o total do repositorio 
+// isso de acorodo com o total do repositorio.
 
 
 2. Quem fez o primeiro commit?
