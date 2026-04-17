@@ -12,3 +12,12 @@ Tempo de Vida: A expectativa de vida varia entre 10 e 18 anos, dependendo da ra�
 
 **Fonte:**
 Site: apaixonados por quatro patas
+
+**Pergunta recebida:**
+** Que animal de estimação ela gosta?
+
+**Minha resposta:**
+Gosto muito de animais é até dificil responder só um, porém de todos, os cachorros tem meu coração.
+
+**O que aprendi com essa troca:**
+Aprendi conhecimentos que não sabia sobre a tecnologia, aprendi como usar o github e que pode ter perguntas e respostas por meio do site.
