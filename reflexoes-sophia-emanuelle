@@ -1,0 +1,18 @@
+# Reflexão
+ 
+1. Quantos commits o repositório tem no total? 98 commits 
+
+2. Quem fez o primeiro commit? Brendhon-srnac
+
+3. O que mudou entre a 1ª e 2ª versão do seu perfil? Cheguei atrasada
+e nao consegui fazer a etapa 2
+
+4. Por que mensagens de commit descritivas são importantes?
+Contexto (O "Porquê"): O código mostra a mudança, mas a
+mensagem explica a intenção por trás dela.
+
+Velocidade na Manutenção: Facilita encontrar a origem de bugs e 
+decidir se uma alteração pode ser revertida com segurança.
+
+Trabalho em Equipe: Permite que outros desenvolvedores entendam
+a evolução do projeto sem precisar perguntar ao autor original.
