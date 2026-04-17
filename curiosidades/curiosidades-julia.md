@@ -16,3 +16,9 @@ curiosidades que escolhi:
  quanto tempo você joga??
 
 
+ Pergunta de lavinia para julia : qual é o seu melhor fundamento do vôlei
+ recepção (passe)
+ 
+ 
+
+
