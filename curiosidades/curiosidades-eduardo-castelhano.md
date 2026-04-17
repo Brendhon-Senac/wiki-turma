@@ -5,3 +5,6 @@ mais da potência muscular do que da altura da pessoa. Isso acontece porque o sa
 o tipo de fibra muscular predominante no corpo. Pessoas mais leves, por exemplo, podem ter mais facilidade para sair do chão se tiverem boa força relativa, enquanto atletas com músculos mais explosivos conseguem
 gerar maior impulsão. Por isso, não é raro que jogadores mais baixos consigam saltar mais alto do que jogadores mais altos. Ainda assim, os mais altos continuam com vantagem no alcance total, pois somam sua altura ao salto.
 Fonte: https://pubmed.ncbi.nlm.nih.gov/29466272/
+ Pergunta recebida: o que eu faria caso meu oponente saltasse mais que eu
+ minha resposta: eu esperava ele pular e pulava um pouco depois 
+ O que aprendi com essa troca: aprendi um poucos sobre abelhas além de ter uma visão diferente do esporte que pratico 
