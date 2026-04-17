@@ -7,3 +7,14 @@ teclado QWERTY ter sido projetado para diminuir a velocidade de digitação, e o
 em homenagem a um rei viking.
 
 **Fonte:** GOOGLE.COM
+
+**Pergunta recebida** 
+
+**Pergunta que eu faria ao autor:**
+ Qual ela prefere Samsung ou Apple?
+ 
+ Minha Resposta: Apple
+
+ ** O que aprendi com essa troca**
+ Aprendi como troca ideias ou perguta pelo github e responde elas.
+
