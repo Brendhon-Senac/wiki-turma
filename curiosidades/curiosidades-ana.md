@@ -12,5 +12,5 @@ eu achei interessante porque nasceu nas areias do Rio de janeiro
 minha opinião ou complemento:
 eu me indentifico com o futvôlei e inclusive ate jogo
 pergunta que eu faria para o autor:
-se o ponto vale quando encosta na rede?
+se o ponto vale quando encosta na faixa?
 
