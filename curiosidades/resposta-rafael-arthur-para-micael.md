@@ -3,3 +3,5 @@ Curiosidade que escolhi: Curiosidade sobre mim: Consigo montar o cubo mágico (3
 O que achei interessante: achei interessante que ele gosta de cubo magico 
 Minha opinião ou complemento:cubo e legal e abelhas tambem
 Pergunta que eu faria ao autor: como que monta cubo facil e rapido
+
+Resposta para a pergunta de Rafael: Para montar um cubo mágico rápido e fácil, é necessário aprender primeiro os movimentos, como o exemplo o 1d (1 de direita) ou então o 1e (1 de esquerda). Saber esses movimentos são extremamente essencias para concluir o cubo mágico. Após isso, procure alguém que saiba monta-ló ou então procure um vídeo no youtube (recomento o canal da SuzaneCoelho)
