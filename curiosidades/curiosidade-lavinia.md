@@ -12,7 +12,7 @@ As mulheres só começaram a competir em 1952
 Minha opinião ou complemento:
 não me identifico com volei
 Pergunta que eu faria ao autor:
-Por que as mulheres só começaram a competir em 1952?
+qual seu melhor fundamento o volei?
 
 Pergunta de Júlia para Lavínia: quanto tempo você joga??
 10 meses.
