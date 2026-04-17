@@ -1,2 +1,4 @@
 Para responder isto, é necessessário pensar um pouco. Por exemplo, pense na relação de peso entre uma pessoa pequena e uma pessoa grande, em alguns casos a diferença pode ser bem discrepante. Sendo assim, as pessoas menores no volei podem ter uma impulsão maior para saltar do que pessoas mais altas, porém, não é somento por este motivo.
 Pessoas grandes já são grandes, por esse motivo elas não possuem o mesmo objetivo flamejante de pessoas pequenas de treinarem bastante para compensarem a altura em seu saltos, por tanto, este pode ser mais um dos diversos motivos para "Por que as pessoas pequenas pulam mais altos do que as pessoas grandes no Vôlei?"
+
+O que você faria caso seu rival no volei tivesse uma impulsão de pulo melhor do que a sua?
